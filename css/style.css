@@ -5,7 +5,7 @@ Author: yaminncco
 Colors:
 	Body 		  : #5f646b
 	Headers 	: #23262a
-	Primary 	: #83ba09
+	Primary 	: #006600
 	Grey 		  : #f4f4f8, #e6e6ea
 
 Fonts: Roboto, Source Sans Pro
@@ -79,7 +79,7 @@ a {
 a:hover, a:focus {
   text-decoration: none;
   outline: none;
-  color: #83ba09;
+  color: #006600;
 }
 
 ul, ol {
@@ -107,7 +107,7 @@ blockquote:after {
   bottom: -10px;
   text-align: center;
   font-size: 43px;
-  color: #83ba09;
+  color: #006600;
   width: 45px;
   height: 45px;
   line-height: 45px;
@@ -122,7 +122,7 @@ blockquote:after {
   position: relative;
   display: inline-block;
   padding: 0px 30px;
-  background: #83ba09;
+  background: #006600;
   color: #FFF;
   font-weight: 400;
   height: 45px;
@@ -180,7 +180,7 @@ textarea.input {
 }
 
 .input:focus {
-  border-color: #83ba09;
+  border-color: #006600;
 }
 
 /*----------------------------*\
@@ -264,7 +264,7 @@ textarea.input {
 
 .navbar-menu li a:hover, .navbar-menu li a:focus {
   background-color: transparent;
-  color: #83ba09;
+  color: #006600;
 }
 
 /*----------------------------*\
@@ -543,7 +543,7 @@ textarea.input {
 }
 
 .header-content .breadcrumb>li a:hover, .header-content .breadcrumb>li a:hover {
-  color: #83ba09;
+  color: #006600;
 }
 
 .header-content .breadcrumb>li+li::before {
@@ -551,7 +551,7 @@ textarea.input {
 }
 
 .header-content .breadcrumb>.active {
-  color: #83ba09;
+  color: #006600;
 }
 
 /*=========================================================
@@ -625,7 +625,7 @@ textarea.input {
 
 .number i {
   font-size: 43px;
-  color: #83ba09;
+  color: #006600;
   margin-bottom: 15px;
 }
 
@@ -634,12 +634,12 @@ textarea.input {
 }
 
 .number span {
-  color: #83ba09;
+  color: #006600;
   font-weight: 700;
 }
 
 .number:hover {
-  border-color: #83ba09;
+  border-color: #006600;
 }
 
 /*=========================================================
@@ -699,7 +699,7 @@ textarea.input {
 
 .testimonial .testimonial-meta span {
   font-size: 12px;
-  color: #83ba09;
+  color: #006600;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -734,7 +734,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -764,7 +764,7 @@ textarea.input {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   bottom: 0;
   border-radius: 10px;
 }
@@ -777,7 +777,7 @@ textarea.input {
   -ms-transform: translate(50%, -100%);
   transform: translate(50%, -100%);
   padding: 2px 10px;
-  background: #83ba09;
+  background: #006600;
   color: #FFF;
   font-weight: 400;
   border-radius: 10px;
@@ -787,7 +787,7 @@ textarea.input {
 .causes-progress .causes-progress-bar>div span:after {
   content: "";
   position: absolute;
-  background-color: #83ba09;
+  background-color: #006600;
   height: 3px;
   bottom: 0;
   -webkit-transform: translate(-50%, 100%);
@@ -857,7 +857,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -889,7 +889,7 @@ textarea.input {
   height: 25px;
   line-height: 25px;
   border-radius: 50%;
-  color: #83ba09;
+  color: #006600;
   border: 1px solid #e6e6ea;
   text-align: center;
   font-size: 15px;
@@ -909,7 +909,7 @@ textarea.input {
   height: 45px;
   line-height: 45px;
   border-radius: 50%;
-  color: #83ba09;
+  color: #006600;
   border: 1px solid #e6e6ea;
   text-align: center;
   font-size: 21px;
@@ -940,7 +940,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -1119,7 +1119,7 @@ textarea.input {
 }
 
 .article-pagination li a:hover {
-  border-color: #83ba09;
+  border-color: #006600;
 }
 
 .article-pagination li.active {
@@ -1131,7 +1131,7 @@ textarea.input {
   color: #5f646b;
   text-align: center;
   background-color: #FFF;
-  border: 1px solid #83ba09;
+  border: 1px solid #006600;
 }
 
 .article-pagination li.active:hover {
@@ -1160,7 +1160,7 @@ textarea.input {
 }
 
 .widget-category ul li a span {
-  color: #83ba09;
+  color: #006600;
   margin-left: 10px;
 }
 
@@ -1200,7 +1200,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -1257,7 +1257,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -1358,7 +1358,7 @@ textarea.input {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: #83ba09;
+  background-color: #006600;
   opacity: 0;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
@@ -1410,7 +1410,7 @@ textarea.input {
 }
 
 .footer-social li a:hover, .footer-social li a:focus {
-  border-color: #83ba09;
+  border-color: #006600;
 }
 
 /*----------------------------*\
@@ -1436,7 +1436,7 @@ textarea.input {
 }
 
 #footer-bottom .footer-nav li a:hover, #footer-bottom .footer-nav li a:focus {
-  color: #83ba09;
+  color: #006600;
 }
 
 /*=========================================================
@@ -1521,7 +1521,7 @@ textarea.input {
 }
 
 .owl-theme .owl-nav [class*='owl-']:hover {
-  background: #83ba09;
+  background: #006600;
 }
 
 /*----------------------------*\
@@ -1536,14 +1536,14 @@ textarea.input {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  border-color: #83ba09;
-  background: #83ba09;
+  border-color: #006600;
+  background: #006600;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
   width: 20px;
-  border-color: #83ba09;
-  background: #83ba09;
+  border-color: #006600;
+  background: #006600;
 }
 
 /* My Css edit*/
@@ -1564,7 +1564,7 @@ textarea.input {
   position: relative;
   display: inline-block;
   padding: 0px 30px;
-  background: #83ba09;
+  background: #006600;
   color: #FFF;
   font-weight: 300;
   height: 35px;
@@ -1599,4 +1599,12 @@ textarea.input {
 .primary-button2:hover, .primary-button2:focus {
   color: #FFF;
   opacity: 1;
+}
+/* button disabled */
+
+.disable{
+  cursor: not-allowed;
+}
+.point {
+  color: green;
 }
