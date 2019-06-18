@@ -1,4 +1,4 @@
-5/*
+/*
 Template Name: Charity HTML Template
 Author: yaminncco
 
@@ -499,27 +499,30 @@ textarea.input {
 }
 
 #home-owl.owl-theme .owl-prev {
-  left: 15px;
+  left: 5px;
 }
 
 #home-owl.owl-theme .owl-next {
-  right: 15px;
+  right: 2px;
 }
 
 .home-content h1 {
   font-size: 45px;
   font-weight: bold;
-  color: black;
+  color: white;
+  margin-left: 70px;
   margin-bottom: 30px;
 }
 
 .home-content p.lead {
+  margin-left: 70px;
   font-weight: bold;
-  color: black !important;
-  text-shadow: 2px 2px 3px white;
+  color: white !important;
   margin-bottom: 30px;
 }
-
+.home-content .primary-button {
+  margin-left: 70px;
+}
 #page-header {
   position: relative;
   margin-top: 60px;
@@ -600,9 +603,9 @@ textarea.input {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: 90px;
-  height: 90px;
-  line-height: 90px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
   text-align: center;
   background: #fff;
   border-radius: 50%;
@@ -1451,7 +1454,7 @@ textarea.input {
   }
   .home-content h1 {
     font-size: 43px;
-    color: #000000 !important;
+    color: white !important;
   }
   .about-video {
     margin-top: 30px;
@@ -1521,7 +1524,8 @@ textarea.input {
 }
 
 .owl-theme .owl-nav [class*='owl-']:hover {
-  background: #006600;
+  background: #fad7fe transparent;
+  background-clip: content-box;
 }
 
 /*----------------------------*\
@@ -1550,6 +1554,7 @@ textarea.input {
 .article-content .volist{
   margin-left: 20px;
   list-style-type: square;
+  list-style-type: 
   font-family: ;
   font-weight: bold;
 }
